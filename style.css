@@ -1,0 +1,24 @@
+.login-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+   
+  
+.login-form{
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+   
+}
+.login-form input{
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 10px 10px;
+}
+#submit{
+border: 0;
+border-radius: 5px;
+background-color: antiquewhite;
+font-weight: 800;
+}
